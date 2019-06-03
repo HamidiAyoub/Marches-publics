@@ -12,4 +12,4 @@ et exigences minimales des profils d’acheteurs ]( https://www.legifrance.gouv.
 __Pour plus d’informations__ : [Marchés publics]( https://scdl.opendatafrance.net/docs/schemas/scdl-marches-publics.html)
  
 
-Pour l'instant je me contenterai de partager les fichiers de tests que j’ai créé ou généré par l’application.  
+Pour l'instant je me contenterai de partager les fichiers de tests.  
