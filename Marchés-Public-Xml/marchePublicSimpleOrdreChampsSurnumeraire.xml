@@ -1,0 +1,38 @@
+<marches xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <marche>
+        <id>2019NCA19009600</id>
+        <uid>200030195001152019NCA19009600</uid>
+        <acheteur>
+            <id>20003019500115</id>
+            <nom>METROPOLE NICE COTE D'AZUR</nom>
+        </acheteur>
+        <nature>Accord-cadre</nature>
+        <objet>
+            DEA - MISE A DISPOSITION ET MAINTENANCE PROGICIEL ABC VIESION ET ABC CLAUSE
+        </objet>
+        <codeCPV>48420000-8</codeCPV>
+        <procedure>
+            Marché négocié sans publicité ni mise en concurrence préalable
+        </procedure>
+        <lieuExecution>
+            <code>06364</code>
+            <typeCode>Code postal</typeCode>
+            <nom>NICE CEDEX 4</nom>
+        </lieuExecution>
+        <dureeMois>47</dureeMois>
+        <dateNotification>2019-02-15+01:00</dateNotification>
+        <datePublicationDonnees>2019-03-01+01:00</datePublicationDonnees>
+        <montant>72000.0000</montant>
+        <formePrix>Révisable</formePrix>
+        <titulaires>
+            <titulaire>
+                <typeIdentifiant>SIRET</typeIdentifiant>
+                <id>42087171700252</id>
+                <denominationSociale>CITYZEN</denominationSociale>
+            </titulaire>
+        </titulaires>
+        <modifications/>
+        <champ1> test Champ surnuméraire 1</champ1>
+        <champ2> test Champ surnuméraire 2</champ2>
+    </marche>
+</marches>

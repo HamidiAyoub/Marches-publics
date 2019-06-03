@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marches xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <marche>
+        <id>2018MAPA20181300</id>
+        <uid>200013183000212018MAPA20181300</uid>
+        <acheteurs>
+            <acheteur>
+                <id>20001318300021</id>
+                <nom>LASAT</nom>
+            </acheteur>
+            <acheteur>
+                <id>20001318300021</id>
+                <nom>LASAT</nom>
+            </acheteur>
+        </acheteurs>
+        <objet>LOCATION LONGUE DUREE DE VEHICULES UTILITAIRES FRIGORIFIQUES</objet>
+        <nature>Marché</nature>
+        <codeCPV>34100000-8</codeCPV>
+        <procedure>Procédure adaptée</procedure>
+        <lieuExecution>
+            <code>79220</code>
+            <typeCode>Code postal</typeCode>
+            <nom>Champdeniers-Saint-Denis</nom>
+        </lieuExecution>
+        <dureeMois>31</dureeMois>
+        <dateNotification>2018-10-26+02:00</dateNotification>
+        <datePublicationDonnees>2019-04-29+02:00</datePublicationDonnees>
+        <formePrix>Révisable</formePrix>
+        <montant>65000.0000</montant>
+        <titulaires>
+            <titulaire>
+                <typeIdentifiant>SIRET</typeIdentifiant>
+                <id>30057104900323</id>
+                <denominationSociale>PETIT FORESTIER LOCATION</denominationSociale>
+            </titulaire>
+        </titulaires>
+        <modifications/>
+    </marche>
+    <marche>
+        <id>2019PA00500</id>
+        <uid>200013183000212019PA00500</uid>
+        <acheteur>
+            <nom>LASAT</nom>
+            <id>20001318300021</id>
+        </acheteur>
+        <nature>Marché</nature>
+        <objet>Fournitue d'un automate d'hématologie vétérinaire</objet>
+        <codeCPV>38000000-5</codeCPV>
+        <procedure>Procédure adaptée</procedure>
+        <lieuExecution>
+            <code>19000</code>
+            <typeCode>Code postal</typeCode>
+            <nom>Tulle</nom>
+        </lieuExecution>
+        <dureeMois>48</dureeMois>
+        <dateNotification>2019-04-17+02:00</dateNotification>
+        <datePublicationDonnees>2019-04-29+02:00</datePublicationDonnees>
+        <montant>80000.0000</montant>
+        <formePrix>Révisable</formePrix>
+        <titulaires>
+            <titulaire>
+                <typeIdentifiant>SIRET</typeIdentifiant>
+                <id>42996300200010</id>
+                <denominationSociale>SYSMEX FRANCE</denominationSociale>
+            </titulaire>
+        </titulaires>
+        <modifications/>
+    </marche>
+    <marche>
+        <id>2018AOP2018-0300</id>
+        <uid>200013183000212018AOP2018-0300</uid>
+        <acheteur>
+            <id>20001318300021</id>
+            <nom>LASAT</nom>
+        </acheteur>
+        <nature>Marché</nature>
+        <codeCPV>38000000-5</codeCPV>
+        <objet>SYSTEME DE CHROMATOGRAPHIE IONIQUE (LOT 1)</objet>
+        <procedure>Appel d'offres ouvert</procedure>
+        <lieuExecution>
+            <code>17000</code>
+            <typeCode>Code postal</typeCode>
+            <nom>La Rochelle</nom>
+        </lieuExecution>
+        <dureeMois>27</dureeMois>
+        <dateNotification>2019-04-15+02:00</dateNotification>
+        <datePublicationDonnees>2019-04-29+02:00</datePublicationDonnees>
+        <montant>81000.0000</montant>
+        <formePrix>Révisable</formePrix>
+        <titulaires>
+            <titulaire>
+                <typeIdentifiant>SIRET</typeIdentifiant>
+                <id>32655657800069</id>
+                <denominationSociale>THERMO ELECTRON</denominationSociale>
+            </titulaire>
+        </titulaires>
+        <modifications/>
+    </marche>
+    <marche>
+        <id>2018AO201803L300</id>
+        <uid>200013183000212018AO201803L300</uid>
+        <acheteur>
+            <id>20001318300021</id>
+            <nom>LASAT</nom>
+        </acheteur>
+        <nature>Marché</nature>
+        <objet>SYSTEME DE CHROMATOGRAPHIE LIQUIDE COUPLEE A LA SPECTROMETRIE DE MASSE EN TANDEM</objet>
+        <codeCPV>38000000-5</codeCPV>
+        <procedure>Appel d'offres ouvert</procedure>
+        <lieuExecution>
+            <code>19000</code>
+            <typeCode>Code postal</typeCode>
+            <nom>Tulle</nom>
+        </lieuExecution>
+        <dureeMois>39</dureeMois>
+        <dateNotification>2019-04-15+02:00</dateNotification>
+        <datePublicationDonnees>2019-04-29+02:00</datePublicationDonnees>
+        <montant>292000.0000</montant>
+        <formePrix>Révisable</formePrix>
+        <titulaires>
+            <titulaire>
+                <typeIdentifiant>SIRET</typeIdentifiant>
+                <id>49130851600021</id>
+                <denominationSociale>SHIMADZU FRANCE</denominationSociale>
+            </titulaire>
+        </titulaires>
+        <modifications/>
+    </marche>
+</marches>
